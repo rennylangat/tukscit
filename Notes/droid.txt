@@ -1,0 +1,15 @@
+https://www.udacity.com/course/gradle-for-android-and-java--ud867 
+
+https://www.coursera.org/learn/hybrid-mobile-development
+
+https://www.udacity.com/course/advanced-android-app-development--ud855
+
+https://www.udacity.com/course/ux-design-for-mobile-developers--ud849
+
+
+https://developer.android.com/training/index.html
+https://developer.android.com/guide/topics/manifest/manifest-intro.html
+
+https://developer.android.com/studio/run/managing-avds.html
+
+https://developer.android.com/training/basics/firstapp/building-ui.html
